@@ -1,2 +1,2 @@
 # basic-projects
-A collection of projects I am working on with the aim of learning javascript.
+A simple Rock Paper Scissors game where you play against an AI.
